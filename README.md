@@ -5,4 +5,5 @@
 - 📫 How to reach me: I'm currently in NYC Metro Area on Eastern Time (EST). I prefer to be contacted via email or LinkedIn. Book a time for a phone call.
 -     Email: mary.long@internetgeopardy.com 
 -     Schedule a 15-minute intro phone call: https://keap.app/booking/deliberatelydelightfulcompany/15-minute-initial-consultation
--     Book a full hour on Zoom with me here: https://www.calendly.com/marykslong
+-     Book a full hour on Zoom with me here: https://letsmeet.io/deliberatelydelightfulllc1/60-minutes-with-mary
+-     If you want to meet for a coffee chat: https://letsmeet.io/marylong/coffee-chat-on-zoom
