@@ -30,11 +30,11 @@ Join Mary Long on this exhilarating journey, where every line of code and strate
 >>.
 👋 Hey there, I’m @marykslong, also known as @InternetGeopardy or @iGeopardy. Proud owner of The Deliberately Delightful Consulting Group Of companies.
 👀 Passionate about Machine Learning, AI, Natural Science, and the enchanting world of code. When not immersed in algorithms, you'll find me indulging in yoga and exploring natural medicine. Currently pursuing a Doctoral degree in Integrative Medicine with #DoctorsWithoutBorders and sharing the joy of yoga and dance. #MahaParamaShivoham2023
-🌱 Constantly expanding my horizons by learning French and German. Recently rekindled my love for coding after a deep dive into graduate studies for natural medicine. Fluent in Spanish. Looking For Love.
+🌱 Constantly expanding my horizons by learning French and German. Recently rekindled my love for coding after a deep dive into graduate studies for natural medicine. Somewhat fluent in Spanish.
 💞️ Seeking remote collaborations in logistics, transportation, engineering, and automation, fueled by my love for data science.
 📫 Best way to connect: Pacific Time Zone (PDT). Eastern Time (EST), prefer text over audio (strict engineering silence space).
 Email: contact@marykslong.com | mary.long@internetgeopardy.com .
 Schedule a 15-minute intro call: Book Here (app update in progress)
 >> For a casual coffee chat: Zoom Coffee
-Book a full hour on Zoom: Let's Meet
+Book a full hour on Zoom: Let's Meet at https://marykslong.systeme.io/lead
 ---
