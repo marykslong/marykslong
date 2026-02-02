@@ -16,9 +16,9 @@ As a digital business strategist and founder, I lead a portfolio of forward-thin
 
 | Company                              | Focus Area                                                                 | Core Strength                          |
 |--------------------------------------|----------------------------------------------------------------------------|----------------------------------------|
-| **Deliberately Delightful, LLC**     | Umbrella for integrative medicine credentials (IMD/Ph.D. candidate), authorship, speaking engagements & international tours • Specialized data science consulting in healthcare & beyond • Strategic digital solutions & cybersecurity | Holistic innovation, global reach, personalized wellness & secure digital experiences | Strategic digital marketing • Cybersecurity consulting                     | Secure, delightful online experiences  |
-| **Internet Geopardy LLC**            | Targeted marketing • GIS-based data analysis • Cyber resilience           | Data-driven decisions & protection     |
-| **Treasure Coast Aviation & Safety Services LLC** | Aviation safety consulting • Medical aviation solutions for hospitals | Safety + mission-critical logistics    |
+| **Deliberately Delightful, LLC**     | Umbrella for [integrative medicine](https://deliberatelydelightful.systeme.io/blog/) credentials (IMD/Ph.D. candidate), authorship, speaking engagements & international tours • Specialized data science consulting in healthcare & beyond • Strategic digital solutions & cybersecurity | Holistic innovation, global reach, personalized wellness & secure digital experiences  Secure, delightful online experiences  |
+| **Internet Geopardy LLC**            | [Strategic digital marketing](https://internetgeopardy.com/) • Cybersecurity consulting | • Targeted marketing • GIS-based data analysis • Cyber resilience           | Data-driven decisions & protection     |
+| **Treasure Coast Aviation Safety Services LLC** | [Aviation safety consulting](https://tcas2.com/expert-consultations/) • Medical aviation solutions for hospitals | Safety + mission-critical logistics    |
 | **Long Engineering & Logistics LLC** | Engineering • Supply chain innovation • Transportation automation         | Future-ready logistics & data science  |
 | **FILOT X MARY**                     | Advanced cybersecurity • Threat intelligence                               | Proactive defense for businesses       |
 
